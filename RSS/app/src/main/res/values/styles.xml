@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <string name="rssfeed">http://leopoldomt.com/if1001/g1brasil.xml</string>
+    </style>
+
+</resources>
